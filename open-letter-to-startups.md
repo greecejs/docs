@@ -19,7 +19,7 @@ Introduction to open source project developed by community member(s).
 
 ##### 19:25 - 19:55
 
-Presenting a new (or not so new) technology, e.g. mv* framework, template engine, etc.
+Presenting a new (or not so new) technology, e.g. mv* framework, template engine, language, platform, etc.
 
 ##### 20:05 - 20:15
 
@@ -27,7 +27,7 @@ Advertisment by our sponsor.
 
 ##### 20:20 - 20:50
 
-Greek startup company presents their product and technology stack.
+Greek startup presents their product/service and technology stack.
 
 ### Call for speakers
 

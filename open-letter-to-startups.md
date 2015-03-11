@@ -2,7 +2,7 @@
 
 ### What is AthensJS?
 
-AthensJS is a JavaScript developer community, based in Athens - Greece, run by the open governance model. Our goal is to educate developers and promote relationships. 
+AthensJS is a JavaScript developer community, based in Athens - Greece, run by the open governance model.  Our goal is to educate developers on the latest trends in JavaScript, as well as to facilitate relationships and networking within the community.
 
 ### Bi-monthly meetings
 

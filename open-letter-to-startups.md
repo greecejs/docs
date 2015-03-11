@@ -1,12 +1,12 @@
 # Open letter to the startup community
 
-### What is AthensJS?
+### What is GreeceJS?
 
-AthensJS is a JavaScript developer community, based in Athens - Greece, run by the open governance model.  Our goal is to educate developers on the latest trends in JavaScript, as well as to facilitate relationships and networking within the community.
+GreeceJS is a JavaScript developer community, run by the open governance model. Our goal is to educate developers on the latest trends in JavaScript, as well as to facilitate relationships and networking within the community.
 
 ### Bi-monthly meetings
 
-AthensJS organizes bi-monthly developer meetings at [InnovAthens](http://www.innovathens.gr/) (Pireos 100, Athens, 118 54) every 2nd Wednesday of an even month, starting **Wednesday April 8, 2015**.
+GreeceJS organizes bi-monthly developer meetings at [InnovAthens](http://www.innovathens.gr/) (Pireos 100, Athens, 118 54) every 2nd Wednesday of an even month, starting **Wednesday April 8, 2015**.
 
 The format of these meetings is as follows:
 
@@ -37,7 +37,7 @@ We can allocate up to 30 mins for your presentation + 10 mins for questions. We'
 
 ### Sponsorship options
 
-A good dev is hard to find and talent scouting is becoming a huge pain-point for technology-based companies. AthensJS meetings attracts some of the brightest minds of Athens.
+A good dev is hard to find and talent scouting is becoming a huge pain-point for technology-based companies. GreeceJS meetings attracts some of the brightest minds of Greece.
 
 You are most welcome to advertise your job offering or developer product (e.g. SDK) to our meetups - we can allocate up to 10 mins towards this end. In return, we ask that you cover our food and drink expenses, i.e. ~ 70eur. 
 

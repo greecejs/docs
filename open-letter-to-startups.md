@@ -6,7 +6,7 @@ GreeceJS is a JavaScript developer community, run by the open governance model. 
 
 ### Bi-monthly meetings
 
-GreeceJS organizes bi-monthly developer meetings at [InnovAthens](http://www.innovathens.gr/) (Pireos 100, Athens, 118 54) every 2nd Wednesday of an even month, starting **Wednesday April 8, 2015**.
+GreeceJS organizes bi-monthly developer meetings at [InnovAthens](http://www.innovathens.gr/) (Pireos 100, Athens, 118 54) every 2nd Wednesday of an even month (i.e. Feb, Apr, Jun, Aug, Oct, Dec), starting **Wednesday April 8, 2015**.
 
 The format of these meetings is as follows:
 

@@ -15,7 +15,7 @@ Networking, cookies and coffee.
 
 ##### 18:45 - 19:15
 
-Introduction to open source project developed by community member(s).
+Introduction to an open source project developed by community member(s).
 
 ##### 19:25 - 19:55
 
@@ -37,9 +37,7 @@ We can allocate up to 30 mins for your presentation + 10 mins for questions. We'
 
 ### Sponsorship options
 
-A good dev is hard to find and talent scouting is becoming a huge pain-point for technology-based companies. GreeceJS meetings attracts some of the brightest minds of Greece.
-
-You are most welcome to advertise your job offering or developer product (e.g. SDK) to our meetups - we can allocate up to 10 mins towards this end. In return, we ask that you cover our food and drink expenses, i.e. ~ 70eur. 
+A good dev is hard to find and talent scouting is becoming a huge pain-point for technology-based companies. GreeceJS meetings attracts some of the brightest minds of Greece. You are most welcome to advertise your job offering or developer product (e.g. SDK) to our meetups - we can allocate up to 10 mins towards this end. In return, we ask that you cover our food and drink expenses, i.e. ~ 70eur. 
 
 _Pizza, beer and coding_ - what's more for a dev to be happy?
 
@@ -48,7 +46,15 @@ _Pizza, beer and coding_ - what's more for a dev to be happy?
 Have a question? Don't hesitate to call us.
 
 * Dimitris Michalakos +30 693 652 6071
-* Kostas Karolemeas ...
 
-You may also write directly in our forum.
-[https://groups.google.com/forum/#!forum/greecejs](https://groups.google.com/forum/#!forum/greecejs)
+You may also use our [Google Groups forum](https://groups.google.com/forum/#!forum/greecejs).
+
+Looking forward to seeing you at our next meeting.
+
+On behalf of [GreeceJS](http://greecejs.org/),
+
+* [Panagiotis Astithas](http://gr.linkedin.com/in/astithas)
+* [Angelos Chaidas](http://gr.linkedin.com/in/chaidas)
+* [Kostas Karolemeas](http://gr.linkedin.com/in/kostaskarolemeas)
+* [Dimitris Michalakos](https://www.linkedin.com/in/dmichalakos)
+* [Dio Synodinos](https://www.linkedin.com/in/synodinos)

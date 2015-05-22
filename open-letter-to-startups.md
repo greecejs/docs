@@ -6,7 +6,7 @@ GreeceJS is a JavaScript developer community, run by the open governance model. 
 
 ### Bi-monthly meetings
 
-GreeceJS organizes bi-monthly developer meetings at [InnovAthens](http://www.innovathens.gr/) (Pireos 100, Athens, 118 54) every 2nd Wednesday of an even month (i.e. Feb, Apr, Jun, Aug, Oct, Dec), starting **Wednesday April 8, 2015**.
+GreeceJS organizes bi-monthly developer meetings at [InnovAthens](http://www.innovathens.gr/) (Pireos 100, Athens, 118 54) every 4th Wednesday of an even month (i.e. Feb, Apr, Jun, Aug, Oct, Dec).
 
 The format of these meetings is as follows:
 
@@ -37,7 +37,7 @@ We can allocate up to 30 mins for your presentation + 10 mins for questions. We'
 
 ### Sponsorship options
 
-A good dev is hard to find and talent scouting is becoming a huge pain-point for technology-based companies. GreeceJS meetings attracts some of the brightest minds of Greece. You are most welcome to advertise your job offering or developer product (e.g. SDK) to our meetups - we can allocate up to 10 mins towards this end. In return, we ask that you cover our food and drink expenses, i.e. ~ 70eur. 
+A good dev is hard to find and talent scouting is becoming a huge pain-point for technology-based companies. GreeceJS meetings attracts some of the brightest minds of Greece. You are most welcome to advertise your job offering or developer product (e.g. SDK) to our meetups - we can allocate up to 10 mins towards this end. In return, we ask that you cover our food and drink expenses, i.e. ~ 100eur. 
 
 _Pizza, beer and coding_ - what's more for a dev to be happy?
 
